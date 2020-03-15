@@ -1,0 +1,13 @@
+###> symfony/framework-bundle ###
+/.env
+/composer.lock
+/phpunit.xml.dist
+
+.phpunit
+/phpunit.xml
+
+.idea
+
+/node_modules/
+npm-debug.log
+yarn-error.log
